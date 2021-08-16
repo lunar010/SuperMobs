@@ -1,5 +1,4 @@
 # SuperMobs
- 
  **Tested Versions**
   - 1.16.5 (spigot)
  **Description**
