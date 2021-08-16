@@ -1,5 +1,5 @@
 # SuperMobs
-All mobs will be powerfull
+All mobs will be powerfullzc
 # Tested versions
 1.16.5 (spigot)
 # Description
