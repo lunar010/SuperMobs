@@ -1,5 +1,4 @@
-# SuperMobs
- **Tested Versions**
+# Tested Versions
   - 1.16.5 (paper)
   - 1.15.2 (spigot)
   - 1.12.2 (spigot)
