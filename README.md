@@ -1,5 +1,5 @@
 # SuperMobs
-All mobs will be powerfullzc
+Mosb become more POWERFULL!!
 # Tested versions
 1.16.5 (spigot)
 # Description
