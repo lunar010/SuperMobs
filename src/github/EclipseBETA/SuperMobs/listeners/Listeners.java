@@ -20,6 +20,7 @@ public class Listeners implements Listener {
 			if(e.getEntityType() == EntityType.SKELETON) {
 				ItemStack punchBow = new ItemStack(Material.BOW);
 				punchBow.addEnchantment(Enchantment.ARROW_KNOCKBACK, 5);
+				e.getEntity().getEquipment().setItemInMainHand(punchBow);
 			} else {
 				e.getEntity().getEquipment().setItemInMainHand(new ItemStack(Material.DIAMOND_SWORD)); 
 			}
